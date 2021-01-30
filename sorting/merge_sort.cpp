@@ -101,6 +101,6 @@ int main() {
 
   sorted_array = merge_sort(original_array);
 
-  cout << "The above array sorted is \n";
+  cout << "The above array when sorted is \n";
   print_vector(sorted_array);
 }
